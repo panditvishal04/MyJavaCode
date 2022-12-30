@@ -15,7 +15,7 @@ System.out.println("The sum of two numbers x and y is: " + sum);
 //method that calculates the sum  
 public static int sum(int c, int d)  
 {  
-int sum = c - d;  
+int sum = c / d;  
 return sum;  
 }  
 }  
